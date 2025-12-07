@@ -1,9 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  images: { unoptimized: true },
-  basePath: '/greenfarm',
-  assetPrefix: '/greenfarm/',
+  /* config options here */
+  reactCompiler: true,
 };
 
 export default nextConfig;
