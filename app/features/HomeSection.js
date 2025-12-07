@@ -12,7 +12,7 @@ export default function HomeSection({ products, onAddToCart }) {
   const superSaleProducts = products.filter((p) => {
     if (p.salePrice >= p.price) return false;
     const discount = 100 - (p.salePrice / p.price) * 100;
-    return discount >= 30;
+    return discount >= 80;
   });
 
   const onSaleProducts = products.filter((p) => p.salePrice < p.price);
@@ -143,7 +143,11 @@ export default function HomeSection({ products, onAddToCart }) {
         }}
       >
         {superSaleProducts.map((product) => (
-          <ProductCard key={product.id} product={product} />
+          <ProductCard
+            key={product.id}
+            product={product}
+            onAddToCart={onAddToCart}
+          />
         ))}
       </Box>
 
