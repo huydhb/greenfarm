@@ -31,7 +31,7 @@ export default function FooterSection() {
           <Box sx={{ display: "flex", alignItems: "center", gap: 1, mb: 2 }}>
             <Box
               component="img"
-              src="/images/branding/logo.png"
+              src="images/branding/logo.png"
               alt="GreenFarm"
               sx={{ height: 40 }}
             />

@@ -5,8 +5,8 @@ export const metadata = {
   title: "GreenFarm",
   description: "Website bán nông sản - rau củ sạch",
   icons: {
-    icon: "/images/branding/logo.png",
-    shortcut: "/images/branding/logo.png",
+    icon: "images/branding/logo.png",
+    shortcut: "images/branding/logo.png",
   },
 };
 

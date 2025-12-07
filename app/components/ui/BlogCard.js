@@ -16,7 +16,7 @@ export default function BlogCard({
   const safeExcerpt =
     excerpt ||
     "Đây là đoạn mô tả ngắn về bài viết, giới thiệu nội dung chính cho người đọc…";
-  const safeImage = image || "/images/blog/default.jpg"; // Đảm bảo bạn có ảnh này hoặc thay bằng link online
+  const safeImage = image || "images/blog/blog-default.jpg"; // Đảm bảo bạn có ảnh này hoặc thay bằng link online
   const safeAuthor = author || "GreenFarm";
   const safeDate = date || "00:00, 1 tháng 1 năm 2026";
 
@@ -64,7 +64,7 @@ export default function BlogCard({
         >
           <Box
             component="img"
-            src="/images/branding/logo.png" // Logo ví dụ
+            src="images/branding/logo.png" // Logo ví dụ
             alt="Avatar"
             sx={{ borderRadius: 2, width: 40, height: 40, objectFit: "cover" }}
           />

@@ -306,7 +306,7 @@ export default function App() {
                 ) : null}
 
                 <img
-                  src="/images/branding/logo.png"
+                  src="images/branding/logo.png"
                   alt="Logo"
                   style={{ height: 40 }}
                 />

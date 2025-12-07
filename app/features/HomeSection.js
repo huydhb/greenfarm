@@ -45,7 +45,7 @@ export default function HomeSection({ products, onAddToCart }) {
         }}
       >
         <img
-          src="/images/branding/banner.png"
+          src="images/branding/banner.png"
           alt="Banner"
           style={{ width: "100%", height: "100%", objectFit: "cover" }}
         />
