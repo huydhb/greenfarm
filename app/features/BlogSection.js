@@ -7,7 +7,7 @@ import BlogCard from "@components/ui/BlogCard"; // <-- Import BlogCard của b�
 // Fetch dữ liệu từ blogs.json
 async function fetchBlogData() {
   try {
-    const response = await fetch("/data/blogs.json");
+    const response = await fetch("data/blogs.json");
     if (!response.ok) throw new Error("Tải trang không thành công");
     return await response.json();
   } catch (error) {

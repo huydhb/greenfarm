@@ -84,7 +84,7 @@ export default function App() {
 
   // Load dữ liệu sản phẩm
   useEffect(() => {
-    fetch("/data/products.json")
+    fetch("data/products.json")
       .then((res) => res.json())
       .then((data) => setProducts(data))
       .catch((err) => console.error("Lỗi khi tải JSON:", err));
