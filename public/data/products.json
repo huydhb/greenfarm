@@ -1,0 +1,502 @@
+[
+  {
+    "id": "rau-001",
+    "name": "Rau muống",
+    "category": "rau",
+    "img": "/images/products/rau/rau-muong.jpg",
+    "shortDescription": "Rau muống đồng tươi xanh giòn",
+    "description": "Rau muống đồng được hái vào sáng sớm khi còn đọng sương, thân to, ngọn vươn dài và có độ giòn tự nhiên. Rau xanh đậm, vị ngọt mát, rất thích hợp cho các món xào tỏi, luộc chấm mắm nêm hoặc nấu canh chua tôm. Ngoài ra, rau muống chứa nhiều chất xơ, sắt và vitamin A, giúp thanh nhiệt, giải độc cơ thể, làm đẹp da và hỗ trợ tiêu hóa hiệu quả.",
+    "price": 10000,
+    "salePrice": 8500
+  },
+  {
+    "id": "rau-002",
+    "name": "Cải bẹ xanh",
+    "category": "rau",
+    "img": "/images/products/rau/cai-be-xanh.jpg",
+    "shortDescription": "Cải bẹ xanh vị cay nhẹ",
+    "description": "Cải bẹ xanh là loại rau dân dã với hương vị cay nồng nhẹ và giàu dưỡng chất. Lá cải to, dày, xanh bóng, vừa có thể dùng tươi để gói thịt, vừa có thể nấu canh hay muối dưa. Trong đông y, cải bẹ xanh giúp hỗ trợ hô hấp, làm ấm cơ thể và giảm cảm cúm hiệu quả. Món canh cá rô đồng nấu cùng cải bẹ xanh mang vị ngọt thanh, tạo cảm giác gần gũi và ấm áp cho bữa cơm gia đình.",
+    "price": 15000,
+    "salePrice": 12000
+  },
+  {
+    "id": "rau-003",
+    "name": "Cà chua",
+    "category": "rau",
+    "img": "/images/products/rau/ca-chua.jpg",
+    "shortDescription": "Cà chua đỏ mọng nhiều nước",
+    "description": "Cà chua chín cây tự nhiên, quả đỏ mọng, bóng mịn và nhiều nước. Đây là nguyên liệu không thể thiếu trong các món ăn như sốt spaghetti, canh chua cá hoặc salad trộn. Cà chua chứa nhiều vitamin C, A và lycopene – một chất chống oxy hóa mạnh giúp làm đẹp da, giảm cholesterol và tăng sức đề kháng. Dùng cà chua thường xuyên giúp duy trì làn da sáng khỏe và trái tim mạnh mẽ.",
+    "price": 25000,
+    "salePrice": 25000
+  },
+  {
+    "id": "rau-004",
+    "name": "Xà lách",
+    "category": "rau",
+    "img": "/images/products/rau/xa-lach.jpg",
+    "shortDescription": "Xà lách tươi dùng cuốn thịt",
+    "description": "Xà lách mỡ có lá mềm, xanh mướt, mọng nước và rất dễ ăn. Loại rau này thường được dùng để làm salad trộn dầu giấm, ăn kèm đồ nướng hoặc cuộn thịt ba chỉ. Xà lách chứa nhiều nước, chất xơ và vitamin K, có tác dụng làm mát gan, dịu dạ dày và đẹp da. Dùng xà lách tươi sống hàng ngày giúp cung cấp chất chống oxy hóa, đồng thời giúp cơ thể nhẹ nhàng, thanh lọc.",
+    "price": 15000,
+    "salePrice": 15000
+  },
+  {
+    "id": "rau-005",
+    "name": "Bắp cải",
+    "category": "rau",
+    "img": "/images/products/rau/bap-cai.jpg",
+    "shortDescription": "Bắp cải trắng giòn ngọt tự nhiên",
+    "description": "Bắp cải trắng cuộn chặt, lá giòn, vị ngọt thanh và dễ chế biến. Một bắp khoảng 1kg có thể dùng để luộc, xào thịt bò, hoặc làm gỏi gà xé phay thơm ngon. Rau bắp cải giàu vitamin C, K và chất xơ, giúp tăng cường miễn dịch và tốt cho đường ruột. Ngoài ra, bắp cải còn được ưa chuộng vì dễ bảo quản, giữ được độ tươi lâu và là lựa chọn quen thuộc trong những bữa cơm thuần Việt.",
+    "price": 18000,
+    "salePrice": 14000
+  },
+  {
+    "id": "rau-006",
+    "name": "Rau ngót",
+    "category": "rau",
+    "img": "/images/products/rau/rau-ngot.jpg",
+    "shortDescription": "Rau ngót sạch nấu canh thịt",
+    "description": "Rau ngót trồng vườn, lá xanh đậm, mùi thơm nhẹ, có tính mát và bổ dưỡng. Khi nấu canh với thịt bằm, rau ngót mang đến hương vị thanh ngọt tự nhiên, rất được yêu thích trong những ngày hè nóng bức. Rau ngót giàu chất xơ, canxi và vitamin A, có tác dụng hạ nhiệt, lợi tiểu và giúp cải thiện giấc ngủ. Đây là loại rau truyền thống mang đậm hương vị gia đình Việt.",
+    "price": 12000,
+    "salePrice": 12000
+  },
+  {
+    "id": "rau-007",
+    "name": "Mồng tơi",
+    "category": "rau",
+    "img": "/images/products/rau/mong-toi.jpg",
+    "shortDescription": "Mồng tơi tươi mát giải nhiệt",
+    "description": "Mồng tơi là loại rau đặc trưng của bữa cơm Việt, thân mập, lá to, có độ nhớt tự nhiên giúp thanh mát cơ thể. Loại rau này thường được dùng nấu canh cua, mướp hoặc tôm khô, mang lại vị ngọt nhẹ, mát lành. Rau mồng tơi chứa nhiều sắt và vitamin nhóm B, có công dụng hỗ trợ tiêu hóa, giải độc và duy trì làn da khỏe mạnh. Món canh mồng tơi là lựa chọn hoàn hảo cho mùa nắng nóng.",
+    "price": 10000,
+    "salePrice": 7000
+  },
+  {
+    "id": "rau-008",
+    "name": "Cải bó xôi",
+    "category": "rau",
+    "img": "/images/products/rau/cai-bo-xoi.jpg",
+    "shortDescription": "Cải bó xôi giàu dinh dưỡng",
+    "description": "Cải bó xôi (rau chân vịt) là siêu thực phẩm chứa nhiều sắt, canxi và vitamin A, C. Rau có vị nhẹ, thân mềm, rất thích hợp để xào, luộc, nấu cháo cho bé hoặc xay sinh tố. Ngoài ra, cải bó xôi còn giúp tăng cường thị lực, hỗ trợ tuần hoàn máu và làm đẹp da. Đây là lựa chọn hoàn hảo cho những ai theo đuổi chế độ ăn uống lành mạnh và giàu năng lượng.",
+    "price": 35000,
+    "salePrice": 30000
+  },
+  {
+    "id": "rau-009",
+    "name": "Xà lách mỡ hữu cơ",
+    "category": "rau",
+    "img": "/images/products/rau/xa-lach-huu-co.jpg",
+    "shortDescription": "Xà lách mỡ hữu cơ mềm",
+    "description": "Xà lách mỡ hữu cơ được trồng hoàn toàn tự nhiên, không sử dụng thuốc trừ sâu hay chất kích thích. Lá xanh tươi, mềm mại, vị ngọt hậu và mát dịu. Rau rất an toàn khi ăn sống, thích hợp cho các món salad thanh nhẹ hoặc cuốn thịt nướng. Nhờ chứa nhiều vitamin A, C và khoáng chất, xà lách mỡ mang lại lợi ích lớn cho sức khỏe, đặc biệt trong việc làm đẹp da và cân bằng tiêu hóa.",
+    "price": 55000,
+    "salePrice": 45000
+  },
+  {
+    "id": "rau-010",
+    "name": "Xà lách Romaine hữu cơ",
+    "category": "rau",
+    "img": "/images/products/rau/xa-lach-romaine.jpg",
+    "shortDescription": "Xà lách Romaine giòn làm Caesar",
+    "description": "Xà lách Romaine hữu cơ nổi bật với độ giòn sần sật, thân dài, lá dày và có vị ngọt nhẹ. Đây là nguyên liệu không thể thiếu trong món salad Caesar trứ danh. Rau được trồng theo quy trình hữu cơ cao cấp, đảm bảo an toàn và giữ trọn hương vị tự nhiên. Ngoài ra, xà lách Romaine chứa nhiều chất xơ, vitamin K và folate, hỗ trợ tim mạch, cải thiện tiêu hóa và giúp duy trì cân nặng lý tưởng.",
+    "price": 90000,
+    "salePrice": 63000
+  },
+  {
+    "id": "rau-011",
+    "name": "Bông hẹ",
+    "category": "rau",
+    "img": "/images/products/rau/bong-he.jpg",
+    "shortDescription": "Bông hẹ xanh non xào mực",
+    "description": "Bông hẹ tươi có mùi thơm nồng ấm, thân giòn và vị thanh nhẹ. Đây là nguyên liệu đặc biệt quen thuộc trong các món xào như hẹ xào mực, xào giá hay gan heo. Không chỉ ngon miệng, bông hẹ còn giàu dinh dưỡng, giúp thanh lọc cơ thể, tăng sức đề kháng và hỗ trợ tiêu hóa. Hương thơm đặc trưng của bông hẹ mang lại cảm giác ấm áp và hấp dẫn cho mọi bữa ăn.",
+    "price": 35000,
+    "salePrice": 35000
+  },
+  {
+    "id": "rau-012",
+    "name": "Ngò gai hữu cơ",
+    "category": "rau",
+    "img": "/images/products/rau/ngo-gai-huu-co.jpg",
+    "shortDescription": "Ngò gai thơm nồng gia vị",
+    "description": "Ngò gai (mùi tàu) hữu cơ được trồng và thu hoạch thủ công, đảm bảo sạch và an toàn. Lá dày, mép răng cưa sắc nét, hương thơm mạnh mẽ đặc trưng cho các món phở, canh chua, hoặc bún riêu. Ngoài công dụng nấu ăn, ngò gai còn giúp khử mùi thức ăn, kích thích tiêu hóa và hỗ trợ hô hấp. Rau tươi, giữ mùi lâu và là loại gia vị không thể thiếu trong gian bếp Việt.",
+    "price": 5000,
+    "salePrice": 0
+  },
+  {
+    "id": "rau-013",
+    "name": "Tía tô hữu cơ",
+    "category": "rau",
+    "img": "/images/products/rau/tia-to-huu-co.jpg",
+    "shortDescription": "Tía tô tím thơm giải cảm",
+    "description": "Tía tô hữu cơ có lá tím đậm, mặt lá nhám và mùi thơm dễ chịu. Loại rau này không chỉ là gia vị quen thuộc ăn kèm các món cháo, cá hấp mà còn có nhiều công dụng y học như giải cảm, giảm ho, lợi tiêu hóa. Trong ẩm thực, tía tô giúp tăng hương vị độc đáo cho món canh, bún, hay món cuốn. Rau sạch, trồng tự nhiên, giữ trọn dưỡng chất và hương vị truyền thống Việt.",
+    "price": 8000,
+    "salePrice": 8000
+  },
+  {
+    "id": "rau-014",
+    "name": "Cải thìa",
+    "category": "rau",
+    "img": "/images/products/rau/cai-thia-huu-co.jpg",
+    "shortDescription": "Cải thìa ngọt mát xào dầu",
+    "description": "Cải thìa (cải chip) là loại rau thanh mát, có bẹ trắng, giòn và lá xanh non. Khi xào với dầu hào, nấm đông cô hoặc tỏi, cải thìa tỏa mùi thơm dịu và mang vị ngọt đặc trưng. Rau giàu vitamin C, K và beta-carotene, tốt cho mắt và hệ miễn dịch. Với kết cấu đẹp và vị dễ chịu, cải thìa là lựa chọn lý tưởng cho những món ăn thanh đạm, tốt cho sức khỏe.",
+    "price": 20000,
+    "salePrice": 15000
+  },
+  {
+    "id": "rau-015",
+    "name": "Rau diếp cá",
+    "category": "rau",
+    "img": "/images/products/rau/rau-diep-ca-huu-co.jpg",
+    "shortDescription": "Diếp cá thanh nhiệt giải độc",
+    "description": "Rau diếp cá tươi, lá hình tim, mùi thơm đặc trưng và vị chua nhẹ. Loại rau này thường được dùng ăn sống kèm món bánh xèo, bún thịt nướng, hoặc ép lấy nước để thanh lọc cơ thể. Trong đông y, diếp cá có công dụng kháng viêm, giải độc gan và làm mát máu. Đây là lựa chọn tuyệt vời cho chế độ ăn uống lành mạnh, giúp tăng sức đề kháng và duy trì làn da khỏe.",
+    "price": 10000,
+    "salePrice": 9000
+  },
+  {
+    "id": "cu-001",
+    "name": "Khoai tây",
+    "category": "cu",
+    "img": "/images/products/cu/khoai-tay.jpg",
+    "shortDescription": "Khoai tây vàng bở dẻo ngon",
+    "description": "Khoai tây Đà Lạt củ to đều, vỏ mỏng, ruột vàng ươm, khi cắt ra khô ráo chứ không bị chảy nước. Khi nấu chín, khoai có độ bở tơi, vị bùi béo rất dễ ăn, đặc biệt phù hợp cho các món hầm xương, ninh súp, nghiền bơ sữa hoặc chiên giòn kiểu khoai tây chiên. Khoai tây cũng là nguồn tinh bột tốt, giàu chất xơ, vitamin C và kali, giúp no lâu, hỗ trợ tiêu hóa và tốt cho tim mạch nếu chế biến đúng cách (luộc, hấp, nướng thay vì chiên ngập dầu).",
+    "price": 25000,
+    "salePrice": 20000
+  },
+  {
+    "id": "cu-002",
+    "name": "Khoai lang",
+    "category": "cu",
+    "img": "/images/products/cu/khoai-lang.jpg",
+    "shortDescription": "Khoai lang tím ngọt bùi",
+    "description": "Khoai lang tím Nhật củ thuôn dài, vỏ mỏng, phần ruột tím đậm bắt mắt, khi luộc hoặc hấp tỏa mùi thơm nhẹ rất đặc trưng. Thịt khoai chín bở tơi, ngọt lịm tự nhiên, có thể ăn như món ăn vặt lành mạnh, nướng than, làm chè, làm bánh hoặc cắt khoanh chiên áp chảo. Khoai lang giàu chất xơ, vitamin A, C và các chất chống oxy hóa có lợi cho mắt, làn da và hệ tiêu hóa, đồng thời tạo cảm giác no lâu nên thường được dùng trong thực đơn eat clean, giảm cân khoa học.",
+    "price": 22000,
+    "salePrice": 18000
+  },
+  {
+    "id": "cu-003",
+    "name": "Su hào hữu cơ",
+    "category": "cu",
+    "img": "/images/products/cu/su-hao-huu-co.jpg",
+    "shortDescription": "Su hào non giòn ngọt nước",
+    "description": "Su hào hữu cơ củ tròn đều, vỏ mỏng xanh mướt, phần thân chắc và nặng tay, khi gọt ra có màu trắng xanh, giòn tan. Thịt su hào ngọt nước, có thể dùng để xào với mực, thịt bò, nấu canh sườn hoặc bào sợi làm gỏi trộn chua ngọt đều rất hợp. Do được trồng theo phương pháp hữu cơ, su hào giữ được vị ngọt thanh tự nhiên, ít hăng, đồng thời cung cấp lượng chất xơ và vitamin đáng kể, hỗ trợ tiêu hóa và bổ sung rau củ lành mạnh cho bữa ăn gia đình.",
+    "price": 45000,
+    "salePrice": 45000
+  },
+  {
+    "id": "cu-004",
+    "name": "Củ cải trắng",
+    "category": "cu",
+    "img": "/images/products/cu/bap-cai-huu-co.jpg",
+    "shortDescription": "Củ cải trắng ngọt thanh mát",
+    "description": "Củ cải trắng to, da láng mịn, thịt củ trắng và mọng, khi cắt không bị xơ cứng. Trong ẩm thực, củ cải trắng được ví như “nhân sâm trắng” vì khi ninh cùng xương, đuôi bò, gà hoặc dùng trong nước dùng phở, hủ tiếu sẽ làm cho nước ngọt thanh, trong và dậy mùi tự nhiên. Củ cải có vị mát, ít calo, nhiều nước và chất xơ, rất phù hợp cho các món hầm, canh thanh nhiệt, hoặc cắt lát muối chua giòn ăn kèm đồ nướng.",
+    "price": 18000,
+    "salePrice": 12000
+  },
+  {
+    "id": "cu-005",
+    "name": "Hành tây",
+    "category": "cu",
+    "img": "/images/products/cu/hanh-tay-huu-co.jpg",
+    "shortDescription": "Hành tây giòn tăng hương vị",
+    "description": "Hành tây củ to, chắc, lớp vỏ ngoài vàng nâu khô ráo, bên trong là các lớp thịt trắng giòn, nhiều nước. Khi ăn sống, hành có vị hăng nhẹ giúp kích thích vị giác, nhưng khi nấu chín lại trở nên rất ngọt, là nền hương vị cho vô số món xào, súp, bò bít tết, burger hay các món Âu – Á. Hành tây còn chứa nhiều hợp chất thực vật có lợi và chất chống oxy hóa, thường được dùng để làm ngọt nước dùng, phi thơm với bơ hoặc dầu ăn, tạo chiều sâu hương vị cho món ăn.",
+    "price": 28000,
+    "salePrice": 20000
+  },
+  {
+    "id": "cu-006",
+    "name": "Gừng",
+    "category": "cu",
+    "img": "/images/products/cu/gung-huu-co.jpg",
+    "shortDescription": "Gừng sẻ cay nồng ấm bụng",
+    "description": "Gừng sẻ củ nhỏ, vỏ mỏng, thơm nồng và cay mạnh, rất thích hợp dùng làm gia vị cho các món kho, chiên, nướng hoặc pha trà gừng mật ong. Chỉ cần vài lát gừng đã đủ khử mùi tanh của thịt, cá, hải sản, đồng thời làm món ăn dậy mùi ấm áp đặc trưng. Gừng còn thường được dùng trong các món xông, uống ấm vào mùa lạnh, hỗ trợ tiêu hóa và giúp cơ thể cảm thấy ấm bụng hơn sau bữa ăn nhiều dầu mỡ.",
+    "price": 40000,
+    "salePrice": 40000
+  },
+  {
+    "id": "cu-007",
+    "name": "Cà rốt",
+    "category": "cu",
+    "img": "/images/products/cu/ca-rot-huu-co.jpg",
+    "shortDescription": "Cà rốt đỏ tươi sáng mắt",
+    "description": "Cà rốt Đà Lạt củ thon dài, màu cam đậm bắt mắt, vỏ mịn và ít tì vết. Khi nấu chín, cà rốt có vị ngọt dịu, giòn mềm, thường được dùng hầm xương, nấu súp, xào rau củ thập cẩm hoặc ép lấy nước uống rất mát. Cà rốt nổi tiếng giàu beta-carotene – tiền chất vitamin A – cùng chất xơ và vitamin C, giúp hỗ trợ thị lực, tốt cho da và hệ miễn dịch, là loại củ không thể thiếu trong thực đơn lành mạnh mỗi ngày.",
+    "price": 20000,
+    "salePrice": 200
+  },
+  {
+    "id": "cu-008",
+    "name": "Khoai mì (Sắn)",
+    "category": "cu",
+    "img": "/images/products/cu/san.jpg",
+    "shortDescription": "Khoai mì dẻo bùi hấp cốt dừa",
+    "description": "Khoai mì tươi có vỏ nâu, ruột trắng tinh, khi gọt ra chắc tay, không bị chảy nhựa bất thường. Sau khi hấp chín, khoai mì có độ dẻo và bùi, chấm muối mè, ăn kèm cốt dừa, mè rang hoặc làm bánh khoai mì nướng đều rất thơm ngon. Đây là món ăn vặt gắn liền với tuổi thơ của nhiều người, vừa no bụng vừa dễ chế biến, thích hợp cho bữa sáng hoặc bữa xế nhẹ nhàng.",
+    "price": 15000,
+    "salePrice": 12000
+  },
+  {
+    "id": "cu-009",
+    "name": "Củ cải đỏ (Củ dền)",
+    "category": "cu",
+    "img": "/images/products/cu/cu-cai-duong-huu-co.jpg",
+    "shortDescription": "Củ dền đỏ bổ máu",
+    "description": "Củ dền đỏ hữu cơ (khoảng 300g mỗi củ), có lớp vỏ sẫm màu và ruột đỏ thẫm rất đẹp khi cắt lát. Khi nấu, củ dền tạo màu đỏ hồng tự nhiên cho món súp, cháo hoặc nui, thường được dùng trong súp củ dền kiểu Nga, nấu cháo cho bé hoặc ép nước uống cùng táo, cà rốt. Củ dền chứa nhiều sắt, folate và các khoáng chất quan trọng, thường được nhắc đến như một loại củ hỗ trợ tuần hoàn máu, tăng cường năng lượng cho cơ thể.",
+    "price": 50000,
+    "salePrice": 35000
+  },
+  {
+    "id": "cu-010",
+    "name": "Củ cải trắng hữu cơ",
+    "category": "cu",
+    "img": "/images/products/cu/cu-cai-trang-huu-co.jpg",
+    "shortDescription": "Củ cải hữu cơ chuẩn sạch",
+    "description": "Củ cải trắng hữu cơ là phiên bản cao cấp, được trồng theo quy trình nghiêm ngặt, không dư lượng thuốc bảo vệ thực vật, cho hương vị đậm đà hơn loại thường. Thịt củ giòn, ngọt, có thể dùng ninh nước dùng, nấu canh, làm kim chi củ cải hoặc muối chua ăn kèm đồ chiên nướng. Vị ngọt thanh mát cùng cấu trúc giòn dễ ăn khiến củ cải hữu cơ rất được ưa chuộng trong các bữa ăn cần yếu tố “sạch” và tốt cho sức khỏe.",
+    "price": 60000,
+    "salePrice": 60000
+  },
+  {
+    "id": "cu-011",
+    "name": "Bí đỏ",
+    "category": "cu",
+    "img": "/images/products/cu/bi-do.jpg",
+    "shortDescription": "Bí đỏ hồ lô dẻo ngọt",
+    "description": "Bí đỏ hồ lô có vỏ cứng, ruột dày màu vàng cam, hạt ít, mỗi trái cầm rất chắc tay. Khi nấu chín, bí có độ dẻo cao, vị ngọt bùi, thường được dùng nấu canh xương, nấu cháo bí đỏ, hầm đậu xanh hoặc làm bánh, làm sữa bí. Bí đỏ giàu beta-carotene, vitamin A, C, chất xơ và khoáng chất, hỗ trợ mắt, tim mạch và chuyển hóa năng lượng, đồng thời ít calo nên phù hợp cho người ăn kiêng hoặc muốn duy trì vóc dáng.",
+    "price": 18000,
+    "salePrice": 15000
+  },
+  {
+    "id": "cu-012",
+    "name": "Đậu bắp",
+    "category": "cu",
+    "img": "/images/products/cu/dau-bap-huu-co.jpg",
+    "shortDescription": "Đậu bắp non xanh mướt",
+    "description": "Đậu bắp trái nhỏ, non, vỏ xanh mướt, khi bẻ nhẹ phát ra tiếng giòn tách, không bị già xơ. Bên trong có lớp chất nhầy tự nhiên, khi nấu chín mang lại cảm giác sánh nhẹ rất đặc trưng, thường được dùng để luộc, hấp chấm mắm, nướng cùng muối ớt, hoặc cho vào lẩu chua. Đậu bắp chứa nhiều chất xơ hòa tan, vitamin C và khoáng chất, được đánh giá là thực phẩm tốt cho hệ tiêu hóa và các khớp, phù hợp cho thực đơn lành mạnh hằng ngày.",
+    "price": 20000,
+    "salePrice": 18000
+  },
+  {
+    "id": "cu-013",
+    "name": "Bắp Mỹ",
+    "category": "cu",
+    "img": "/images/products/cu/bap-my.jpg",
+    "shortDescription": "Bắp Mỹ hạt vàng ngọt lịm",
+    "description": "Bắp Mỹ trái to, hạt vàng đều, căng bóng, khi luộc hoặc hấp có vị ngọt đậm và giòn sần sật. Bắp có thể dùng để nấu sữa bắp, xào tép, nướng mỡ hành hoặc ninh cùng xương để làm ngọt nước lẩu, nước súp. Bắp Mỹ cung cấp tinh bột, chất xơ và một lượng vitamin, khoáng chất cần thiết, là món ăn vặt tiện lợi, phù hợp cho cả người lớn và trẻ nhỏ trong những bữa phụ, buổi dã ngoại.",
+    "price": 10000,
+    "salePrice": 8000
+  },
+  {
+    "id": "cu-014",
+    "name": "Cà tím",
+    "category": "cu",
+    "img": "/images/products/cu/ca-tim-huu-co.jpg",
+    "shortDescription": "Cà tím nướng mỡ hành",
+    "description": "Cà tím trái dài, vỏ tím bóng mượt, phần ruột trắng ngà, mềm và xốp khi nấu chín. Cà tím hấp thụ gia vị rất tốt, vì vậy thường được dùng để nướng mỡ hành, kho với thịt ba chỉ, xào tỏi ớt hoặc nướng than chấm mắm nêm đều cực kỳ đưa cơm. Bên cạnh hương vị dân dã, cà tím còn cung cấp chất xơ và một số chất chống oxy hóa, phù hợp cho những bữa ăn cân bằng giữa ngon miệng và dinh dưỡng.",
+    "price": 16000,
+    "salePrice": 12000
+  },
+  {
+    "id": "cu-015",
+    "name": "Bí đao",
+    "category": "cu",
+    "img": "/images/products/cu/bi_dao_huu_co.jpg",
+    "shortDescription": "Bí đao xanh mát thanh nhiệt",
+    "description": "Bí đao (bí xanh) trái thon dài, vỏ xanh đậm hoặc có lớp phấn nhẹ bên ngoài, ruột trắng, hạt nhỏ. Bí có tính mát, vị ngọt nhẹ, rất thích hợp cho các món canh bí nấu tôm, nấu sườn, hầm xương hoặc hầm với tôm khô để giải nhiệt ngày nóng. Nhiều người còn dùng bí đao để ép nước hoặc nấu nước uống hỗ trợ thanh lọc cơ thể, kết hợp cùng chế độ ăn uống lành mạnh để kiểm soát cân nặng hiệu quả.",
+    "price": 18000,
+    "salePrice": 15000
+  },
+  {
+    "id": "nam-001",
+    "name": "Nấm hương",
+    "category": "nam",
+    "img": "/images/products/nam/nam-huong.jpg",
+    "shortDescription": "Nấm hương tươi thơm lừng",
+    "description": "Nấm hương (nấm đông cô) tươi với mũ nâu tròn trịa, mặt dưới cánh nấm gọn gàng, thịt nấm dày và chắc. Khi chế biến, nấm tỏa mùi thơm nồng đặc trưng, giúp món ăn dậy mùi ngay cả khi chỉ dùng một lượng nhỏ. Nấm hương rất hợp để nấu lẩu, xào với rau củ, om cùng gà, nấu cháo hoặc kho chay vì vừa tạo vị ngọt umami tự nhiên, vừa tăng độ sang cho món ăn. Đây cũng là loại nấm được ưa chuộng trong các bữa cơm gia đình lẫn tiệc đãi khách nhờ hương vị đậm đà và cảm giác “ấm cúng” khi ăn.",
+    "price": 45000,
+    "salePrice": 40000
+  },
+  {
+    "id": "nam-002",
+    "name": "Nấm kim châm",
+    "category": "nam",
+    "img": "/images/products/nam/nam-kim-cham.jpg",
+    "shortDescription": "Nấm kim châm giòn thả lẩu",
+    "description": "Nấm kim châm trắng muốt, thân nhỏ dài, mọc thành từng bó rất đẹp mắt, chỉ cần rửa sạch và cắt gốc là có thể dùng ngay. Khi nấu chín, nấm có độ dai giòn sần sật thú vị, không bị bở nát, nên đặc biệt được yêu thích trong các món lẩu, nướng giấy bạc, bò cuộn nấm hay xào bơ tỏi. Vị nấm nhẹ, thanh, dễ kết hợp với nhiều loại nước sốt và nguyên liệu khác nhau, từ thịt bò, ba chỉ đến hải sản hoặc dùng trong món chay. Nấm kim châm cũng là lựa chọn quen thuộc cho những ai muốn thêm chất xơ và rau củ vào khẩu phần ăn mà vẫn giữ được cảm giác vui miệng khi nhai.",
+    "price": 15000,
+    "salePrice": 12000
+  },
+  {
+    "id": "nam-003",
+    "name": "Nấm rơm",
+    "category": "nam",
+    "img": "/images/products/nam/nam-rom.jpg",
+    "shortDescription": "Nấm rơm búp tròn ngọt",
+    "description": "Nấm rơm dạng búp chưa nở, màu xám tro tự nhiên, bên trong ruột trắng, khi cắt ra khô ráo và không bị nhũn. Khi nấu, thịt nấm ngọt thanh, cắn vào ngập nước, mang lại cảm giác rất “đã miệng” trong các món kho tiêu, nấu cháo, nấu canh chua hoặc xào tỏi. Nấm rơm là loại nấm gắn liền với ẩm thực Việt Nam, thường xuất hiện trong những bữa cơm quê mộc mạc nhưng đậm đà. Chỉ cần một ít nấm rơm cũng đủ làm nước dùng ngọt hơn, giúp món ăn bớt phụ thuộc vào bột nêm hay đường.",
+    "price": 40000,
+    "salePrice": 40000
+  },
+  {
+    "id": "nam-004",
+    "name": "Nấm bào ngư xám",
+    "category": "nam",
+    "img": "/images/products/nam/nam-bao-ngu-xam.jpg",
+    "shortDescription": "Nấm bào ngư dai như thịt",
+    "description": "Nấm bào ngư xám có tai nấm dày, mặt trên màu xám nhạt, cuống trắng, thịt nấm dai và giòn nhẹ khi nhai, tạo cảm giác gần giống như thịt gà xé. Nhờ cấu trúc thịt nấm đặc biệt, loại nấm này rất lý tưởng cho người ăn chay hoặc những ai muốn giảm bớt thịt trong khẩu phần mà vẫn muốn món ăn đậm đà. Nấm bào ngư xám có thể dùng để xào sả ớt, lăn bột chiên giòn, nấu canh chua, kho tiêu, làm gỏi hoặc xé sợi làm “gà chay xé phay” rất bắt cơm. Khi nêm nếm khéo, món nấm mang hương vị hài hòa, vừa thanh mát vừa đủ đậm để ăn hoài không ngán.",
+    "price": 30000,
+    "salePrice": 25000
+  },
+  {
+    "id": "nam-005",
+    "name": "Nấm mối đen",
+    "category": "nam",
+    "img": "/images/products/nam/nam-moi-den.jpg",
+    "shortDescription": "Nấm mối đen cao cấp giòn",
+    "description": "Nấm mối đen là dòng nấm cao cấp với thân nấm chắc, giòn, khi cắn vào có độ sật rất đã, vị ngọt tự nhiên rõ rệt hơn nhiều loại nấm thông thường. Hương nấm tinh tế, không quá nồng nhưng lại đọng lâu trong miệng, khiến món ăn trở nên sang trọng và khác biệt, đặc biệt khi dùng trong các món xào bơ tỏi, nướng giấy bạc, nấu lẩu hoặc kho chay. Nấm mối đen còn phù hợp để kết hợp với hải sản, thịt bò, hay chế biến thành các món fusion hiện đại trong nhà hàng. Đây là lựa chọn lý tưởng cho những thực khách yêu ẩm thực tinh tế, muốn tìm một loại nấm vừa ngon, vừa giàu giá trị dinh dưỡng để nâng tầm bữa ăn gia đình lẫn tiệc đãi khách.",
+    "price": 120000,
+    "salePrice": 99000
+  },
+  {
+    "id": "trai-cay-001",
+    "name": "Táo đỏ Mỹ",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/tao-do-my.jpg",
+    "shortDescription": "Táo đỏ Mỹ giòn ngọt nhập khẩu",
+    "description": "Táo đỏ Mỹ nhập khẩu trực tiếp, mỗi quả có vỏ đỏ sẫm bóng bẩy, cầm lên chắc tay, khi cắn vào nghe tiếng giòn rụm rất đã tai. Thịt táo trắng, giòn tan và mọng nước, vị ngọt sắc nhưng vẫn giữ được chút chua nhẹ ở hậu nên ăn lâu không ngán. Táo có thể ăn trực tiếp, cắt lát làm salad, ép nước hoặc dùng kèm yến mạch cho bữa sáng giàu năng lượng. Đây cũng là loại trái cây thường được lựa chọn làm quà biếu bởi vẻ ngoài sang trọng, bắt mắt và hương vị ổn định quanh năm.",
+    "price": 75000,
+    "salePrice": 65000
+  },
+  {
+    "id": "trai-cay-002",
+    "name": "Chuối già",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/chuoi.jpg",
+    "shortDescription": "Chuối già hương chín vàng thơm",
+    "description": "Chuối già chín vàng tự nhiên, vỏ căng bóng, lốm đốm tàn nhang nhẹ cho thấy độ chín tới chuẩn mà không cần ủ hóa chất. Ruột chuối mềm, dẻo, vị ngọt đậm và mùi thơm đặc trưng, rất hợp để ăn trực tiếp, làm sinh tố, ăn kèm yến mạch, làm bánh chuối nướng hoặc chuối chiên. Chuối là trái cây giàu kali và chất xơ, phù hợp làm món ăn nhẹ trước khi tập thể thao hoặc bữa xế giúp nạp năng lượng nhanh mà vẫn dễ tiêu. Một nải chuối trên bàn ăn hay bàn thờ gia tiên luôn mang lại cảm giác ấm cúng và gần gũi.",
+    "price": 25000,
+    "salePrice": 20000
+  },
+  {
+    "id": "trai-cay-003",
+    "name": "Cam sành",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/cam.jpg",
+    "shortDescription": "Cam sành mọng nước nhiều C",
+    "description": "Cam sành vỏ sần, màu xanh ngả vàng, bên trong là tép cam vàng óng và mọng nước, chỉ cần bóc ra là tay đã dính đầy tinh dầu thơm phức. Vị cam chua ngọt cân bằng, rất thích hợp để vắt nước uống với đá, pha thêm chút mật ong hoặc làm detox uống hằng ngày. Chỉ một ly nước cam mát lạnh đã đủ làm dịu cơn khát và tiếp thêm vitamin C cho cơ thể sau giờ làm việc hay học tập căng thẳng. Cam sành cũng là món tráng miệng quen thuộc sau bữa cơm gia đình, vừa nhẹ bụng vừa giúp miệng thơm mát.",
+    "price": 30000,
+    "salePrice": 25000
+  },
+  {
+    "id": "trai-cay-004",
+    "name": "Nho đen không hạt",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/nho.jpg",
+    "shortDescription": "Nho đen không hạt ngọt lịm",
+    "description": "Nho đen không hạt chùm lớn, trái tròn căng, vỏ mỏng, màu tím đen sang trọng, chỉ cần rửa là có thể ăn ngay không mất công bỏ hạt. Khi cắn, phần thịt nho giòn chắc, vị ngọt đậm, hơi thơm nhẹ, rất phù hợp dùng làm món tráng miệng, ăn kèm phô mai, làm salad trái cây hoặc mix cùng sữa chua. Đây cũng là loại trái cây thường xuất hiện trong các set quà biếu cao cấp vì vừa đẹp mắt vừa mang cảm giác “luxury” cho người nhận. Nho đen còn thường được nhắc đến như nguồn cung cấp chất chống oxy hóa tự nhiên cho thực đơn hằng ngày.",
+    "price": 120000,
+    "salePrice": 100000
+  },
+  {
+    "id": "trai-cay-005",
+    "name": "Dưa hấu",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/dua-hau.jpg",
+    "shortDescription": "Dưa hấu đỏ cát ngọt mát",
+    "description": "Dưa hấu trái dài, vỏ xanh, ruột đỏ cát, hạt đen lấm tấm, khi bổ ra tỏa mùi thơm mát dễ chịu. Miếng dưa hấu giòn, nhiều nước, cắn vào là vị ngọt mát lan tỏa khắp miệng, đặc biệt hợp trong những ngày nắng nóng hoặc sau bữa tiệc nhiều dầu mỡ. Dưa hấu có thể ăn trực tiếp, ép nước, làm sinh tố hoặc cắt viên trộn salad trái cây đều rất bắt mắt. Đây là loại trái cây giải nhiệt quốc dân, từ mâm cúng ngày Tết đến các bữa ăn gia đình bình thường đều dễ dàng “cháy hàng”.",
+    "price": 15000,
+    "salePrice": 12000
+  },
+  {
+    "id": "trai-cay-006",
+    "name": "Xoài cát Hòa Lộc",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/xoai.jpg",
+    "shortDescription": "Xoài cát Hòa Lộc thơm béo",
+    "description": "Xoài cát Hòa Lộc là đặc sản trứ danh của miền Tây, quả chín có vỏ vàng ươm, mùi thơm lan tỏa chỉ cần để trong phòng là đã cảm nhận được. Thịt xoài dày, chắc mịn, ít xơ, màu vàng đậm bắt mắt, vị ngọt béo đậm đà và hậu thơm kéo dài. Xoài có thể ăn tươi, chấm muối ớt, làm sinh tố, xay cùng sữa chua hoặc làm topping cho các món chè, panna cotta và bánh ngọt. Đây là dòng xoài thường được chọn để đãi khách hoặc làm quà tặng vì vừa ngon, vừa mang “thương hiệu” rõ ràng.",
+    "price": 60000,
+    "salePrice": 55000
+  },
+  {
+    "id": "trai-cay-007",
+    "name": "Ổi nữ hoàng",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/oi.jpg",
+    "shortDescription": "Ổi nữ hoàng giòn ít hạt",
+    "description": "Ổi nữ hoàng có lớp vỏ xanh sáng, quả tròn hoặc hơi dài, cầm lên chắc tay, khi cắt ra ruột trắng, thơm nhẹ và rất ít hạt. Miếng ổi giòn xốp, vị chua ngọt hài hòa, ăn kèm muối tôm, muối ớt hoặc chấm mắm ruốc kiểu đường phố là “hết sảy”. Ổi là loại trái cây ăn vặt lý tưởng vì tạo cảm giác nhai vui miệng, không quá ngọt, rất hợp cho buổi xế hoặc lúc cần chống buồn miệng. Một dĩa ổi cắt sẵn để trong tủ mát luôn là “cứu tinh” cho những ngày nắng nóng hoặc tụ tập bạn bè.",
+    "price": 25000,
+    "salePrice": 25000
+  },
+  {
+    "id": "trai-cay-008",
+    "name": "Lê Hàn Quốc",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/le.jpg",
+    "shortDescription": "Lê Hàn Quốc size to ngọt",
+    "description": "Lê Hàn Quốc quả size lớn (khoảng 500–800g/quả), vỏ nâu sáng mịn, nhìn rất sang và thường được đóng hộp làm quà biếu. Khi gọt vỏ, phần thịt lê trắng, giòn tan, cực kỳ nhiều nước, cắn vào là nước ngọt tràn miệng, cảm giác mát họng và đã khát ngay lập tức. Lê có thể ăn trực tiếp, ép nước, làm trà trái cây hoặc cắt lát ăn kèm với phô mai trong các bữa tiệc nhẹ. Hương vị thanh ngọt, mát dịu khiến lê Hàn Quốc là lựa chọn yêu thích của cả người lớn lẫn trẻ em.",
+    "price": 85000,
+    "salePrice": 75000
+  },
+  {
+    "id": "trai-cay-009",
+    "name": "Mít Thái",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/mit.jpg",
+    "shortDescription": "Mít Thái múi dày giòn ngọt",
+    "description": "Mít Thái được xử lý sẵn, tách múi vàng ươm, dày cơm, sạch sẽ, chỉ cần mở hộp là ăn ngay không mất công gỡ xơ. Múi mít giòn sần sật, không bị nhão, vị ngọt lịm như phủ mật, mùi thơm đặc trưng lan khắp phòng. Mít rất hợp để ăn chơi, tráng miệng hoặc kết hợp với sữa chua, chè Thái, chè khúc bạch, thêm topping thạch và đá là thành món ăn vặt “gây nghiện”. Đây là loại trái cây mà chỉ cần mở hộp ra là rất khó dừng lại ở một vài múi đầu tiên.",
+    "price": 35000,
+    "salePrice": 25000
+  },
+  {
+    "id": "trai-cay-010",
+    "name": "Dứa mật (Thơm)",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/dua.jpg",
+    "shortDescription": "Dứa mật vàng ươm chua ngọt",
+    "description": "Dứa mật (thơm) chín cây có vỏ vàng ươm, mắt nở đều, khi gọt ra phần thịt vàng đậm, mọng nước và tỏa mùi thơm nồng nàn. Vị dứa chua ngọt đan xen, cắn một miếng là thấy vị mát và thơm lan nhanh trong khoang miệng. Dứa có thể ăn trực tiếp, ép nước, làm sinh tố, nấu canh chua, xào chua ngọt với thịt hoặc dùng làm topping trên pizza, salad đều rất hợp. Một đĩa dứa ướp lạnh trong tủ mát là món tráng miệng giải ngấy tuyệt vời sau những bữa ăn nhiều dầu mỡ.",
+    "price": 15000,
+    "salePrice": 12000
+  },
+  {
+    "id": "trai-cay-011",
+    "name": "Bưởi da xanh",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/buoi-da-xanh.jpg",
+    "shortDescription": "Bưởi da xanh ruột hồng",
+    "description": "Bưởi da xanh Bến Tre chính gốc, trái tròn, vỏ xanh hơi ngả vàng, lớp vỏ dày vừa phải, dễ bóc. Bên trong là múi bưởi ruột hồng đào đẹp mắt, tép bưởi khô ráo, tách múi không chảy nước, ăn vào giòn, ngọt thanh, không hề bị đắng hay the. Bưởi thích hợp làm món tráng miệng, gỏi bưởi tôm thịt, ăn kèm muối ớt hoặc tách múi để trong tủ lạnh ăn dần. Đây cũng là loại trái cây hay được chọn làm quà biếu Tết vì vừa ngon, vừa mang ý nghĩa sung túc, viên mãn.",
+    "price": 60000,
+    "salePrice": 50000
+  },
+  {
+    "id": "trai-cay-012",
+    "name": "Thanh long ruột đỏ",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/thanh-long-ruot-do.jpg",
+    "shortDescription": "Thanh long đỏ ngọt đậm",
+    "description": "Thanh long ruột đỏ có lớp vỏ hồng tím bắt mắt, bên trong là ruột đỏ rực rỡ với hạt đen li ti, nhìn đã thấy “ngon bằng mắt”. So với thanh long ruột trắng, ruột đỏ thường có vị ngọt đậm hơn, thịt chắc và dẻo hơn một chút nên ăn rất đã miệng. Trái thanh long có thể ăn trực tiếp, cắt khối làm salad trái cây, xay sinh tố hoặc dùng làm màu tự nhiên cho món bánh, thạch, kem. Nhiều người cũng lựa chọn thanh long đỏ vì màu sắc nổi bật, thích hợp để chụp hình, trang trí bàn tiệc hoặc mâm trái cây cúng.",
+    "price": 35000,
+    "salePrice": 28000
+  },
+  {
+    "id": "trai-cay-013",
+    "name": "Dâu tây Đà Lạt",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/dau-tay-da-lat.jpg",
+    "shortDescription": "Dâu tây Đà Lạt đỏ mọng",
+    "description": "Dâu tây Đà Lạt được hái từ vườn với trái đỏ tươi, căng mọng, cuống xanh còn tươi nguyên, chỉ cần rửa sạch là có thể ăn ngay. Vị dâu chua chua ngọt ngọt, thơm nhẹ, chấm với sữa đặc, chocolate, làm sinh tố, nước ép, mứt, sốt ăn kèm bánh pancake hay bánh kem đều rất hợp. Dâu tây cũng là loại trái cây được ưa thích để trang trí bánh, set trái cây hoặc làm quà tặng vì vừa đẹp vừa có “chất Đà Lạt” riêng. Chỉ một hộp dâu đặt trong tủ mát đã đủ làm góc bếp trông xịn xò hơn hẳn.",
+    "price": 150000,
+    "salePrice": 0
+  },
+  {
+    "id": "trai-cay-014",
+    "name": "Hồng xiêm (Sapoche)",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/sapoche.jpg",
+    "shortDescription": "Hồng xiêm cát ngọt lịm",
+    "description": "Hồng xiêm (Sapoche) chín có lớp vỏ nâu nhạt, cầm vào hơi mềm tay, gọt ra thấy phần thịt nâu đỏ mịn màng như được trộn cùng đường cát. Khi ăn, hồng xiêm cho cảm giác mềm mượt, tan trong miệng, vị ngọt lịm nhưng thanh, mùi thơm rất đặc trưng và dễ chịu. Trái có thể ăn trực tiếp, xay sinh tố, làm kem hoặc kết hợp với sữa tươi, sữa chua để tạo thành món tráng miệng béo ngậy. Đây là loại trái cây gợi nhớ tuổi thơ của nhiều người, gắn liền với những xe trái cây dạo và những buổi trưa hè mát lành.",
+    "price": 40000,
+    "salePrice": 35000
+  },
+  {
+    "id": "trai-cay-015",
+    "name": "Lựu đỏ",
+    "category": "trai-cay",
+    "img": "/images/products/trai-cay/luu.jpg",
+    "shortDescription": "Lựu đỏ hạt mọng nước",
+    "description": "Lựu đỏ với lớp vỏ hồng đỏ bắt mắt, khi tách ra bên trong là những hạt lựu đỏ thẫm như ngọc ruby, căng mọng, xếp kín cả múi. Hạt lựu giòn nhẹ, nhiều nước, vị ngọt thanh mát, ăn vừa vui miệng vừa không quá ngán, thích hợp làm món ăn vặt hoặc tráng miệng. Lựu có thể ăn trực tiếp, trộn salad, làm topping cho sữa chua, panna cotta, nước ép hoặc dùng trang trí lên bánh ngọt, đồ uống để tăng độ sang cho thành phẩm. Đây cũng là loại trái cây thường được lựa chọn trong các bữa tiệc hoặc set trái cây “healthy” vì vừa đẹp da vừa không quá nhiều calo.",
+    "price": 60000,
+    "salePrice": 45000
+  }
+]
