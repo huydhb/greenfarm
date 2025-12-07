@@ -16,7 +16,7 @@ export default function BlogCard({
   const safeExcerpt =
     excerpt ||
     "Đây là đoạn mô tả ngắn về bài viết, giới thiệu nội dung chính cho người đọc…";
-  const safeImage = image || "images/blog/blog-default.jpg"; // Đảm bảo bạn có ảnh này hoặc thay bằng link online
+  const safeImage = image || "images/branding/default-image.png"; 
   const safeAuthor = author || "GreenFarm";
   const safeDate = date || "00:00, 1 tháng 1 năm 2026";
 
