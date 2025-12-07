@@ -10,7 +10,7 @@ export default function BlogCard({
   image,
   date,
   author,
-  onClick, // <--- THÊM PROP NÀY
+  onClick, 
 }) {
   const safeTitle = title || "Tiêu đề bài viết GreenFarm";
   const safeExcerpt =
@@ -23,20 +23,19 @@ export default function BlogCard({
   return (
     // Dùng ButtonBase hoặc Box với onClick để làm cả thẻ clickable
     <Box
-      onClick={onClick} // <--- GẮN SỰ KIỆN CLICK
+      onClick={onClick} 
       sx={{
         width: "100%",
-        // maxWidth: 900, // Bỏ maxWidth cứng để nó co giãn theo lưới Grid của BlogSection
         display: "flex",
         flexDirection: "column",
         border: "2px solid #37be3c",
         borderRadius: 3,
         overflow: "hidden",
         backgroundColor: "#f1f1f1",
-        cursor: "pointer", // <--- Con trỏ chuột thành hình bàn tay
+        cursor: "pointer", 
         transition: "transform 0.2s",
         "&:hover": {
-          transform: "translateY(-4px)", // Hiệu ứng nhấc nhẹ khi hover
+          transform: "translateY(-4px)", 
           boxShadow: 3,
         },
       }}
@@ -64,7 +63,7 @@ export default function BlogCard({
         >
           <Box
             component="img"
-            src="images/branding/logo.png" // Logo ví dụ
+            src="images/branding/logo.png" 
             alt="Avatar"
             sx={{ borderRadius: 2, width: 40, height: 40, objectFit: "cover" }}
           />
@@ -94,7 +93,7 @@ export default function BlogCard({
               display: "-webkit-box",
               overflow: "hidden",
               WebkitBoxOrient: "vertical",
-              WebkitLineClamp: 3, // Giới hạn 3 dòng
+              WebkitLineClamp: 3, 
             }}
           >
             {safeExcerpt}
@@ -111,7 +110,7 @@ export default function BlogCard({
             borderRadius: 2,
             border: "1px solid #1faa54ff",
             objectFit: "cover",
-            height: 200, // Cố định chiều cao ảnh cho đều
+            height: 200, 
           }}
         />
       </Box>
@@ -131,13 +130,13 @@ export default function BlogCard({
         <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
           <FavoriteIcon fontSize="small" />
           <Typography variant="body2">
-            {Math.floor(Math.random() * 500) + 10}
+            {Math.floor(Math.random() * 10000) + 10}
           </Typography>
         </Box>
         <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
           <CommentIcon fontSize="small" />
           <Typography variant="body2">
-            {Math.floor(Math.random() * 50)}
+            {Math.floor(Math.random() * 1000)}
           </Typography>
         </Box>
       </Box>

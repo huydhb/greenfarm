@@ -119,7 +119,6 @@ export default function BlogSection() {
       <Box
         sx={{
           display: "grid",
-          // Tự động chia cột: Card nhỏ nhất 300px, màn hình to thì 3 cột
           gridTemplateColumns: "repeat(auto-fill, minmax(320px, 1fr))",
           gap: 4,
           width: "100%",
@@ -137,7 +136,7 @@ export default function BlogSection() {
               image={post.image}
               date={post.date}
               author={post.author}
-              onClick={() => setSelectedPost(post)} // Truyền hàm click xuống component con
+              onClick={() => setSelectedPost(post)} 
             />
           ))
         )}

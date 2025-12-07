@@ -165,7 +165,7 @@ export default function ContactSection() {
               }}
             >
               <img
-                src="https://github.com/soda2611/demo/blob/main/public/image.png?raw=true"
+                src="images/branding/logo.png"
                 alt="Logo"
                 style={{ height: 40 }}
               />
