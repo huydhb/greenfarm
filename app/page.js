@@ -2,7 +2,7 @@
 
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import {
   Typography,
   Box,
@@ -33,6 +33,7 @@ import ContactSection from "@features/ContactSection";
 import BlogSection from "@features/BlogSection";
 import FooterSection from "@features/FooterSection";
 import CartDialog from "@components/ui/CartDialog";
+import SearchPopper from "@components/ui/SearchPopper";
 
 export default function App() {
   const theme = createTheme({
@@ -89,6 +90,52 @@ export default function App() {
       .then((data) => setProducts(data))
       .catch((err) => console.error("Lỗi khi tải JSON:", err));
   }, []);
+
+  const [query, setQuery] = useState("");
+  const [suggestions, setSuggestions] = useState([]);
+  const [searchAnchor, setSearchAnchor] = useState(null);
+  const [showPopper, setShowPopper] = useState(false);
+
+  // Chuẩn hóa tiếng Việt bỏ dấu
+  const normalize = (s) =>
+    String(s)
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
+
+  // Chuẩn bị danh sách sản phẩm phẳng cho search
+  const allProducts = useMemo(() => {
+    if (!products || products.length === 0) return [];
+
+    return products.map((p) => ({
+      id: p.id,
+      name: p.name,
+      category: p.category,
+      img: p.img,
+      price: p.price ?? 0,
+      salePrice: p.salePrice ?? p.price,
+      shortDescription: p.shortDescription,
+      _normName: normalize(p.name),
+      _normDesc: normalize(p.shortDescription || ""),
+    }));
+  }, [products]);
+
+  useEffect(() => {
+    const q = normalize(query);
+    if (!q) {
+      setSuggestions([]);
+      setShowPopper(false);
+      return;
+    }
+
+    // Tìm kiếm theo tên + mô tả
+    const matched = allProducts
+      .filter((p) => p._normName.includes(q) || p._normDesc.includes(q))
+      .slice(0, 10);
+
+    setSuggestions(matched);
+    setShowPopper(matched.length > 0);
+  }, [query, allProducts]);
 
   const isMobile = useMediaQuery(theme.breakpoints.down("md"));
 
@@ -407,6 +454,16 @@ export default function App() {
                         fontFamily: "Coiny",
                       }}
                       placeholder="Tìm kiếm sản phẩm..."
+                      value={query}
+                      onChange={(e) => {
+                        setQuery(e.target.value);
+                        setSearchAnchor(e.currentTarget);
+                      }}
+                      onFocus={(e) => {
+                        setSearchAnchor(e.currentTarget);
+                        if (suggestions.length) setShowPopper(true);
+                      }}
+                      onBlur={() => setTimeout(() => setShowPopper(false), 150)}
                     />
                   </div>
                 ) : (
@@ -464,6 +521,19 @@ export default function App() {
           {snackbarMsg}
         </Alert>
       </Snackbar>
+      <SearchPopper
+        open={showPopper}
+        anchorEl={searchAnchor}
+        suggestions={suggestions}
+        onPick={(sug) => {
+          // Khi chọn, mở trang sản phẩm + dialog chi tiết
+          setTab(1); // chuyển sang tab "Sản phẩm"
+          setSelectedCategory(sug.category);
+          setShowPopper(false);
+          setQuery("");
+        }}
+        onClose={() => setShowPopper(false)}
+      />
 
       <FooterSection />
     </ThemeProvider>
